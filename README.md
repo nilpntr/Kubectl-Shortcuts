@@ -1,5 +1,5 @@
 # Kubectl Shortcuts
-A source file for bash and zsh to make your fingers go less crazy!
+A source file for bash and zsh to make your fingers go less crazy in kubectl!
 
 ## Installing
 ```
